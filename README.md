@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://image.pollinations.ai/prompt/Suporte%20de%20Sistemas%20icone%20tech%20servers%20cloud%20mq%20gears%20dark%20background%20minimal%20line%20art" width="500">
+  <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-dwpn2F1LxB2Y7g0grne2cmxQ/user-QGJyYrpvQ1XOHFJRdZJp7M8n/img-GZA7ppEf2DfYBY9v8g4HNy1C.png?st=2026-03-06T14%3A01%3A32Z&se=2026-03-06T16%3A01%3A32Z&sp=r&sv=2022-11-02&sr=b&sig=IR7YjhbbHr%2Bbc9ODpR0g6HkBxzZRxV00uxqPrXtp2qI%3D" width="600">
 </p>
+
 
 # 👋 Olá, eu sou Ingrid!
 
