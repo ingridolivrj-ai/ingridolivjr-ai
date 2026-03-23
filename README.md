@@ -1,10 +1,6 @@
 
-# 👋 Olá, eu sou Ingrid!
-``
-
-
 <p align="center">
-  <img src="INSIRA_AQUI_A_URL_DA_IMAGEM" width="500">
+  <img src="https://image.pollinations.ai/prompt/Suporte%20de%20Sistemas%20icone%20tech%20servers%20cloud%20mq%20gears%20dark%20background%20minimal%20line%20art" width="500">
 </p>
 
 # 👋 Olá, eu sou Ingrid!
