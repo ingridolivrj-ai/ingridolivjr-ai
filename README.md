@@ -30,13 +30,13 @@ Sou Analista de Suporte de Aplicações, atuando com:
 ## 🗂️ Repositórios úteis
 - 📦 **Repositório de Arquivos do Time de Suporte**  
   *(instaladores, frameworks e dependências)*  
-  👉 https://github.com/ingridolivjr-ai/arquivos-time-suporte
+  👉 https://github.com/ingridolivrj-ai/arquivos-time-suporte
 
 ---
 
 ## 📫 Onde me encontrar
 - 💼 GitHub: https://github.com/ingridolivjr-ai  
-- 📧 (se quiser adicionar seu email corporativo/pessoal)
+- 📧 E-mail: ingrid.olivrj@gmail.com
 
 ---
 
