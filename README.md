@@ -35,7 +35,7 @@ Sou Analista de Suporte de Aplicações, atuando com:
 ---
 
 ## 📫 Onde me encontrar
-- 💼 GitHub: https://github.com/ingridolivjr-ai  
+- 💼 GitHub: https://github.com/ingridolivrj-ai/ingridolivjr-ai
 - 📧 E-mail: ingrid.olivrj@gmail.com
 
 ---
