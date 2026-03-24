@@ -32,6 +32,16 @@ Sou Analista de Suporte de Aplicações, atuando com:
 
 ---
 
+
+## 💛 Sobre meus interesses
+
+📚 Adoro estudar e aprender novas tecnologias  
+📖 Sou apaixonada por livros  
+🗄️ E tenho um interesse especial por bancos de dados e tudo que envolve dados
+
+---
+
+
 ## 📫 Onde me encontrar
 - 💼 GitHub: https://github.com/ingridolivrj-ai/ingridolivjr-ai
 - 📧 E-mail: ingrid.olivrj@gmail.com
