@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ingridolivrj-ai/ingridolivjr-ai/refs/heads/main/Cloud.png" width="850" style="border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/ingridolivrj-ai/ingridolivjr-ai/refs/heads/main/Cloud.png" width="600" style="border-radius:8px;">
 </p>
 
 
