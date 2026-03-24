@@ -46,6 +46,7 @@ Aqui estão alguns dos meus projetos e áreas de estudo:
 
 ### 📚 Estudos
 - SQL e Bancos de Dados (consultas, performance, modelagem)
+- Bancos de dados na nuvem AWS (RDS, Aurora, DynamoDB)  
 - Integrações e Mensageria (MQ)
 - Infraestrutura e monitoramento
 - Padrões de integração e troubleshooting
