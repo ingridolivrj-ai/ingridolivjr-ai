@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/ingridolivrj-ai/ingridolivjr-ai/blob/main/Designer.png" width="300">
+  <img src="https://raw.githubusercontent.com/ingridolivrj-ai/ingridolivjr-ai/refs/heads/main/Cloud.png" width="300">
 </p>
 
 
