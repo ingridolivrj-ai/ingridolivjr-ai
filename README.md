@@ -37,7 +37,7 @@ Sou Analista de Suporte de Aplicações, atuando com:
 
 📚 Adoro estudar e aprender novas tecnologias  
 📖 Sou apaixonada por livros  
-🗄️ E tenho um interesse especial por bancos de dados e tudo que envolve dados
+🗄️ Sou fascinada por bancos de dados e suas tecnologias
 
 ---
 
