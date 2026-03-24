@@ -32,6 +32,26 @@ Sou Analista de Suporte de Aplicações, atuando com:
 
 ---
 
+## 🧩 Projetos & Estudos
+
+Aqui estão alguns dos meus projetos e áreas de estudo:
+
+### 💻 Projetos
+- **Repositório de Arquivos – Suporte** → Organização de instaladores, dependências e documentação.
+- **Scripts e Testes Locais** → Estudos sobre APIs, integrações e automação.
+- **Experimentos com Cloud / AWS** → Práticas sobre serviços básicos e certificação.
+
+
+---
+
+### 📚 Estudos
+- SQL e Bancos de Dados (consultas, performance, modelagem)
+- Integrações e Mensageria (MQ)
+- Infraestrutura e monitoramento
+- Padrões de integração e troubleshooting
+
+
+---
 
 ## 💛 Sobre meus interesses
 
